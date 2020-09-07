@@ -1,6 +1,6 @@
 ### Hi there 👋
 Oh god I actually have to write somthing here now don't I. 
-![](https://media.discordapp.net/attachments/630751436430508042/745900901209735188/GitHub_Image.jpg?width=1185&height=593)
+![](https://b.catgirlsare.sexy/J_rr0tdl.jpg)
 
 <!--
 **McZarya/McZarya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
