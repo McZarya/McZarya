@@ -6,7 +6,7 @@
 
 ### Spotify Playing 🎧
 
-[<img src="https://novatorem-swart-eta.vercel.app/api/novatorem" alt="McZarya Spotify Playing" width="350" />](https://open.spotify.com/user/mczarya_?si=EI-2aFA5RxqCigDPEtDF5Q)
+[<img src="https://novatorem-swart-eta.vercel.app/api/spotify" alt="McZarya Spotify Playing" width="350" />](https://open.spotify.com/user/mczarya_?si=EI-2aFA5RxqCigDPEtDF5Q)
 
 ### My Socials:
 
