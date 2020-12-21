@@ -44,6 +44,15 @@
   <img align="left" alt="McZarya's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=McZarya&show_icons=true&hide_border=true&count_private=true&theme=tokyonight" />
 
 <br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+
+---
 
 <summary>:zap: Recent GitHub Activity</summary>
   
