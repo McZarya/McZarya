@@ -12,7 +12,6 @@
 
 [<img align="left" alt="McZarya | Twitter" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="McZarya | Reddit" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/reddit.svg" />][reddit]
-[<img align="left" alt="McZarya | Reddit" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/steam.svg" />][steam]
 
 <br />
 
