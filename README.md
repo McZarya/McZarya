@@ -58,6 +58,8 @@
 <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
+1. ❗️ Opened issue [#1](https://github.com/McZarya/Nyaakuza-Bot/issues/1) in [McZarya/Nyaakuza-Bot](https://github.com/McZarya/Nyaakuza-Bot)
+<!--END_SECTION:activity-->
 
 
 [twitter]: https://twitter.com/McZaryaThe2nd
