@@ -37,18 +37,17 @@
 
 ---
 
-  <summary>:zap: Recent GitHub Activity</summary>
-  
-<!--START_SECTION:activity-->
-
-<!--END_SECTION:activity-->
-
   <summary>:zap: GitHub Stats</summary>
 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=McZarya&layout=compact&theme=tokyonight)](https://github.com/McZarya/github-readme-stats)
 
   <img align="left" alt="McZarya's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=McZarya&show_icons=true&hide_border=true&count_private=true&theme=tokyonight" />
 
+<summary>:zap: Recent GitHub Activity</summary>
+  
+<!--START_SECTION:activity-->
+
+<!--END_SECTION:activity-->
 
 [twitter]: https://twitter.com/McZaryaThe2nd
 [reddit]:  https://www.reddit.com/user/McZarya
