@@ -47,7 +47,6 @@
   
 <!--START_SECTION:activity-->
 
-<!--END_SECTION:activity-->
 
 [twitter]: https://twitter.com/McZaryaThe2nd
 [reddit]:  https://www.reddit.com/user/McZarya
