@@ -9,9 +9,9 @@
 
 ### My Socials:
 
+[<img align="left" alt="McZarya | Website" width="35px" src="https://mczarya.com/media/sIcon/favicon.png" />][website]
 [<img align="left" alt="McZarya | Twitter" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="McZarya | Reddit" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/reddit.svg" />][reddit]
-[<img align="left" alt="McZarya | Website" width="35px" src="https://mczarya.com/media/sIcon/favicon.png" />][website]
 <br>
 <br>
 <img align="left" alt="McZarya" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/discord.svg" />McZarya#0001
