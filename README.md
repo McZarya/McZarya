@@ -3,7 +3,6 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/McZaryaThe2nd?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FMcZaryaThe2nd&screen_name=McZaryaThe2nd)
 
-
 ### Spotify Playing 🎧
 
 [<img src="https://novatorem-swart-eta.vercel.app/api/spotify" alt="McZarya Spotify Playing" width="415" />](https://open.spotify.com/user/mczarya_?si=EI-2aFA5RxqCigDPEtDF5Q)
@@ -12,7 +11,10 @@
 
 [<img align="left" alt="McZarya | Twitter" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="McZarya | Reddit" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/reddit.svg" />][reddit]
-
+[<img align="left" alt="McZarya | Website" width="35px" src="https://mczarya.com/media/sIcon/favicon.png" />][website]
+<br>
+<br>
+<img align="left" alt="McZarya" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/discord.svg" />McZarya#0001
 <br />
 
 ### Languages and Tools:
@@ -41,7 +43,7 @@
 
   <summary>:zap: GitHub Stats</summary>
 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=McZarya&layout=compact&theme=tokyonight)](https://github.com/McZarya/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=McZarya&layout=compact&theme=tokyonight)](https://github.com/McZarya/github-readme-stats)  
 
   <img align="left" alt="McZarya's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=McZarya&show_icons=true&hide_border=true&count_private=true&theme=tokyonight" />
 
@@ -66,4 +68,4 @@
 
 [twitter]: https://twitter.com/McZaryaThe2nd
 [reddit]:  https://www.reddit.com/user/McZarya
-[steam]:   https://steamcommunity.com/id/not-using-cheats-is-hard/
+[website]:  https://mczarya.com/
