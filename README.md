@@ -46,7 +46,7 @@
 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=McZarya&layout=compact&theme=tokyonight)](https://github.com/McZarya/github-readme-stats)  
 
-  <img align="left" alt="McZarya's GitHub Stats" src="https://github-readme-stats-lvm3dv8h0-mczarya.vercel.app username=McZarya&show_icons=true&hide_border=true&count_private=true&theme=tokyonight" />
+  <img align="left" alt="McZarya's GitHub Stats" src="https://github-readme-stats-24froiwy1-mczarya.vercel.app/username=McZarya&show_icons=true&hide_border=true&count_private=true&theme=tokyonight" />
 
 <br />
 <br />
